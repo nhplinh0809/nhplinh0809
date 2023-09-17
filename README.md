@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 My name is Linh Nguyen, a junior at W&L. 
+😄 My name is Linh Nguyen, a junior at W&L. \n
 🌱 I’m currently learning Business and Computer Science
 <!--
 **nhplinh0809/nhplinh0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
